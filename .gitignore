@@ -1,0 +1,5 @@
+data/*
+data_hires/*
+.ipynb_checkpoints/*
+basic_colorized/*
+hires_colorized/*
